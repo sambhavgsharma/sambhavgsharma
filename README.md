@@ -90,7 +90,6 @@ These are the tools I use... sometimes they work... most of the time... they’r
 <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logo=xgboost&logoColor=white" height="19"/>
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" height="19"/>
 
----
 
 ### 🔗 WEB3 & BLOCKCHAIN
 
@@ -104,14 +103,12 @@ These are the tools I use... sometimes they work... most of the time... they’r
 <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" height="19"/>
 <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" height="19"/>
 
----
 
 ### 🏆 COMPETITIVE PROGRAMMING
 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="19"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" height="19"/>
 
----
 
 ### 📱 MOBILE DEVELOPMENT
 
